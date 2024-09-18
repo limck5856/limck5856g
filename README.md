@@ -1,4 +1,4 @@
-# GitHub CLI
+106611f2dd67725187e4f80145186a6ad3a64749# GitHub CLI
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
 
